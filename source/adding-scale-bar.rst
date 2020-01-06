@@ -32,7 +32,7 @@ After installation, both Imod and ImageMagick should be installed. Check that ea
 Script Download
 ---------------
 
-Download the script from: https://github.com/ouchc/sphinx-emdocs/blob/ouchc/labeling_script_new_v4.zip
+Download the script from: https://github.com/ouchc/sphinx-emdocs/blob/ouchc/scripts/labeling_script_new_v4.zip
 
 Extract the sh-script to the directory with your stack files.
 
